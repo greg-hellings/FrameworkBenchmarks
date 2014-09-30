@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export PHP_HOME=${IROOT}/php-5.4.13
+export PHP_HOME=${IROOT}/php-5.4.33
 
 export PHP_FPM=$PHP_HOME/sbin/php-fpm
 
